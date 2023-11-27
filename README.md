@@ -54,7 +54,7 @@ Feel free to contribute by forking the repository, making changes, and submittin
 
   
 
-# 2. Credit Card Fraud Detection - Machine Learning Project
+# 2. Credit Card Fraud Detection
 
 ## Overview
 
